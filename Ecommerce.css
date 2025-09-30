@@ -1,0 +1,56 @@
+/* Orange color div */
+#first{
+    background-color:rgb(245, 113, 47); 
+    padding-left:50px;
+}
+
+a{
+    text-decoration:none;
+}
+
+p,i{
+    display:inline-block;
+    padding:10px;
+}
+
+/* Second black div */
+#second{
+    background-color:black;
+    padding:20px;
+}
+
+.second{
+    display:inline-block;
+}
+
+.btn, .second {
+    background-color:black; 
+    color:white;
+}
+
+input{
+    height:50px; 
+    width:600px;
+}
+
+#Fourth{
+    background-image:url('../images/shopping.jpeg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.Fourth{
+    padding-left:30px; 
+    font-family:'Times New Roman', Times, serif
+}
+
+.container{
+    display:inline-block; 
+    height:350px; 
+    width:250px; 
+    background-color:rgba(0,0,0,0.2); 
+    color:white; 
+    text-align:center;
+    padding: 60px 10px;
+    margin:60px 23px;
+}

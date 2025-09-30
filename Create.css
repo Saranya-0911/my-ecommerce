@@ -1,0 +1,14 @@
+td{
+   padding:15px;
+}
+
+input{
+    height:30px;
+    width:200px;
+}
+
+.submit{
+    background-color:green;
+    color:white;
+    height:50px;
+}
